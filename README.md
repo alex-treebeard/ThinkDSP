@@ -140,7 +140,6 @@ package manager, or install Anaconda.
 
 If you run into problems with these instructions, let me know and I will make corrections.  Good luck!
 
-
 ## Freesound
 
 Special thanks to Freesound (http://freesound.org), which is the source of many of the
